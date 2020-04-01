@@ -1,8 +1,38 @@
  # jwt_epl_dll_wechat
 
+jwt.e
+源码文件
+——
+Jwt.ec
+易语言模块
+——
+jwt.dll
+动态链接库
+使用内容：
+
+.子程序 jwt, 文本型, 公开, 基于HMACSHA256 URLBASE64
+.参数 payload, 文本型, , 请传入json文本msg username
+.参数 key, 文本型, , EncodingAESKey
+
+——
+三张截图说明了公开的使用方法
+
+源码作者Ym_gg(修改) 黎明（主承）
+QQ1195557458(Ym_gg)
+直接使用此源码内容需要遵守GPL协议
+
+
+
+
  ## 以下为源码主要内容
 
- ## 完整源码请下载Jwt.zip
+ ### 完整源码请下载Jwt.zip
+
+
+
+
+
+
 
 .版本 2
 
